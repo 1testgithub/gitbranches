@@ -12,3 +12,6 @@ git checkout -b R324b master
 
 git branch -v
 
+# when no Remote branch for currently LOCAL new branch.  need to do the following
+git push --set-upstream origin R324b
+
