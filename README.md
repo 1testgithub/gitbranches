@@ -22,7 +22,7 @@ git checkout -b R324b-branch origin/R324b
 
 
 
-* cherry-pick (what's ever in Master's laest check-in, which can be for R324c branch;  note the changes only for myself,  because others are updating master as well)
+# cherry-pick (whatsever in Master's laest check-in, which can be for R324c branch;  note the changes only for myself,  because others are updating master as well)
 
 1. first find out the 'hash' for the changes checked in Master branch which are not in R324b branch 
 
