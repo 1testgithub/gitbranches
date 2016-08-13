@@ -47,6 +47,17 @@ git cherry-pick d7703d7
 it push origin R324b-branch:R324b
 
 
+# pull request, can be done via github.
+
+* did this via another account on github.  
+* 
+
+
+# need to check gitflow
+
+
+
+
 
 
 
