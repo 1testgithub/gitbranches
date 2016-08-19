@@ -1,9 +1,9 @@
-import java.util.List;
-import java.util.ArrayList;
+import java.util.Map;
+import java.util.HashMap;
 
 public class CheckMerge {
     public static void main(String[] args) {
-        List<String> names = new ArrayList<>();
+        Map<String, Integer> names = new HashMap<>();
         System.out.println(names);
     }
 }
