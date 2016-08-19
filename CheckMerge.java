@@ -1,9 +1,9 @@
 import java.util.List;
-import java.util.ArrayList;
+import java.util.LinkedList;
 
 public class CheckMerge {
     public static void main(String[] args) {
-        List<String> names = new ArrayList<>();
+        List<String> names = new LinkedList<>();
         System.out.println(names);
     }
 }
